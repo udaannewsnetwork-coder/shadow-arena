@@ -1,2 +1,1 @@
-# shadow-arena
-SHADOW ARENA — a free, standalone 3D browser action survival shooter for desktop and Android.
+<h1>SHADOW ARENA</h1><p>Standalone 3D action game.</p>
